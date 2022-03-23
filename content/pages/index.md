@@ -110,7 +110,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/8e00.jpg
+      url: /images/stuggie-hoodie.jpg
       altText: Hero section image
     styles:
       self:
