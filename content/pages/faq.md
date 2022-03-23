@@ -197,4 +197,5 @@ metaTitle: FAQ
 metaDescription: >-
   STUGGIE again. Interested in anything. I will try my best to cover all of your
   answers.
+addTitleSuffix: true
 ---
