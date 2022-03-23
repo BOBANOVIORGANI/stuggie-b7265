@@ -239,7 +239,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Or even grip ring?
     subtitle: ''
     badge:
       label: This is the badge
