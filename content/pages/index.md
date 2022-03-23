@@ -257,7 +257,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/stuggie-grip.jpg
       altText: Hero image
     styles:
       self:
