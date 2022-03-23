@@ -292,7 +292,7 @@ sections:
     text: >
       Digital arts are your preferences? Got you covered. Get some great STUGGIE
       digital arts in the shop for fair price. 1x1 png picture with high
-      1500x1500 resolution. Every with signature.
+      1500x1500 resolution. Every with cool signature.
     actions: []
     backgroundImage: null
     styles:
