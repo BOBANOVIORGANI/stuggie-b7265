@@ -146,4 +146,5 @@ sections:
     type: FeatureHighlightSection
 metaTitle: Home
 addTitleSuffix: true
+metaDescription: STUGGIE here. Welcome to my website. How can I help you today?
 ---
