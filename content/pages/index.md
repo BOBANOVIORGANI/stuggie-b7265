@@ -92,13 +92,7 @@ sections:
     text: >
       Need something to wear? Choose your preferred size, and colour, and we are
       shipping directly to you. Get it now and have a fresh, new look.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
+    actions: []
     media:
       type: ImageBlock
       url: /images/stuggie-hoodie.jpg
