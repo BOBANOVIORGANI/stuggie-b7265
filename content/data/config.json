@@ -3,7 +3,7 @@
     "favicon": "/images/stuggie-3ea8d0eb.png",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-h",
+        "primaryColors": "colors-b",
         "secondaryColors": "colors-b",
         "title": "STUGGIE",
         "isTitleVisible": true,
