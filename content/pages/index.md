@@ -9,7 +9,7 @@ sections:
     subtitle: 'Hey, STUGGIE here, how can I help you today?'
     actions:
       - type: Button
-        label: Get Started
+        label: I WANNA VIEW THE SHOP
         url: 'https://www.stackbit.com/'
         style: primary
     media:
