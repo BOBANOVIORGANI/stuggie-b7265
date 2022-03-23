@@ -88,12 +88,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Store",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "socialLinks": [],
