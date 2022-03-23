@@ -190,11 +190,7 @@ sections:
       Have Samsung? Great, get some great cases for your Galaxy device. Colour
       for everyone's taste. Premium materials, STUGGIE icon, and reasonable
       price. 
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/stuggie-samsung.jpg
