@@ -237,7 +237,7 @@ sections:
       smartphone? Got you. Get the metal grip ring in your preferred colour and
       attach it on back of your smartphone or case.
     actions:
-      - label: Learn more
+      - label: GET
         altText: ''
         url: /
         showIcon: false
