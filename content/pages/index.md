@@ -93,11 +93,6 @@ sections:
       Need something to wear? Choose your preferred size, and colour, and we are
       shipping directly to you. Get it now and have a fresh, new look.
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - type: Link
         label: Learn More
         url: /
