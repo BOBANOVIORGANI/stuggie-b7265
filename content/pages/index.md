@@ -190,7 +190,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Or Samsung case?
     subtitle: ''
     badge:
       label: This is the badge
