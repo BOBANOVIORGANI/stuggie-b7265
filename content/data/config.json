@@ -97,7 +97,18 @@
             }
         ],
         "socialLinks": [],
-        "legalLinks": [],
+        "legalLinks": [
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            }
+        ],
         "styles": {
             "self": {
                 "width": "narrow",
