@@ -70,7 +70,6 @@
         "colors": "colors-h",
         "contacts": {
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
             "phoneAltText": "Our phone",
             "email": "info@lorem.mail",
             "emailAltText": "Our email",
