@@ -82,12 +82,6 @@
                 "type": "Link",
                 "url": "/",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
-                "altText": ""
             }
         ],
         "socialLinks": [],
