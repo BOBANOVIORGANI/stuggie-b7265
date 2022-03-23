@@ -194,5 +194,5 @@ sections:
       text:
         textAlign: center
 metaTitle: FAQ
-metaDescription: STUGGIE again. Wanna
+metaDescription: 'STUGGIE again. '
 ---
