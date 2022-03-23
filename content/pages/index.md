@@ -285,66 +285,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-  - colors: colors-h
-    elementId: ''
-    title: Key value propositions
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Faster
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage: null
-        styles:
-          self:
-            textAlign: center
-      - type: FeaturedItem
-        title: Smarter
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage: null
-        styles:
-          self:
-            textAlign: center
-      - type: FeaturedItem
-        title: Focused
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage: null
-        styles:
-          self:
-            textAlign: center
-    actions: []
-    columns: 1
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedItemsSection
 metaTitle: Home
 addTitleSuffix: true
 metaDescription: STUGGIE here. Welcome to my website. How can I help you today?
