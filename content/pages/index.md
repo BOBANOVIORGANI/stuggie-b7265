@@ -289,9 +289,10 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Or digital art is thing for you?
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Digital arts are your preferences? Got you covered. Get some great STUGGIE
+      digital arts in the shop for fair price. 1x1 png picture with high
+      1500x1500 resolution.
     actions: []
     backgroundImage: null
     styles:
