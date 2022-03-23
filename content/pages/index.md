@@ -14,7 +14,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/stuggie-c867a300.png
       altText: Image alt text
       caption: Image caption
     styles:
