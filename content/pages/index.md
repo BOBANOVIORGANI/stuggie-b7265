@@ -62,7 +62,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/800.jpg
       altText: Hero section image
     styles:
       self:
