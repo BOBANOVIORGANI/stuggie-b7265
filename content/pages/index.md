@@ -122,12 +122,6 @@ sections:
     backgroundSize: full
     title: Or iPhone case?
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
     text: >
       Have an iPhone? Give you iPhone a new look with great STUGGIE case.
       Colours for everyone's taste. Good materials, STUGGIE icon, and fair
