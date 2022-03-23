@@ -60,6 +60,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderColor: border-complementary
       title:
         textAlign: left
       text:
