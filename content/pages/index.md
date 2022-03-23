@@ -247,9 +247,10 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      Don't have Samsung or iPhone but still want to have equipment for your
+      smartphone? Got you. Get the metal grip ring in your preferred colour and
+      attach it on back of your smartphone or case.
     actions:
       - type: Button
         label: Sign Up
