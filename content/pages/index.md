@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: I WANNA VIEW THE SHOP
-        url: 'https://www.stackbit.com/'
+        url: 147.75.40.150
         style: primary
     media:
       type: ImageBlock
