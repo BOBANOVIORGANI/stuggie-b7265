@@ -162,12 +162,6 @@ sections:
     backgroundSize: full
     title: Or Samsung case?
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
     text: >
       Have Samsung? Great, get some great cases for your Galaxy device. Colour
       for everyone's taste. Premium materials, STUGGIE icon, and reasonable
