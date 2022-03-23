@@ -236,7 +236,15 @@ sections:
       Don't have Samsung or iPhone but still want to have equipment for your
       smartphone? Got you. Get the metal grip ring in your preferred colour and
       attach it on back of your smartphone or case.
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/stuggie-grip.jpg
