@@ -109,17 +109,6 @@
                     "pl-4"
                 ]
             }
-        },
-        "logo": {
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock"
         }
     }
 }
