@@ -144,4 +144,5 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+metaTitle: Home
 ---
