@@ -144,11 +144,7 @@ sections:
       Have an iPhone? Give you iPhone a new look with great STUGGIE case.
       Colours for everyone's taste. Good materials, STUGGIE icon, and fair
       price.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/stuggie-iphone.jpg
