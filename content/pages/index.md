@@ -149,9 +149,10 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      Have an iPhone? Give you iPhone a new look with great STUGGIE case.
+      Colours for everyone's taste. Good materials, STUGGIE icon, and fair
+      price.
     actions:
       - type: Button
         label: Sign Up
