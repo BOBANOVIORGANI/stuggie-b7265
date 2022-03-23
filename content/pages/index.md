@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: I WANNA VIEW THE SHOP
-        url: 147.75.40.150
+        url: 'http://store-stuggie.tk/'
         style: primary
     media:
       type: ImageBlock
