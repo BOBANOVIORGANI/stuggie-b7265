@@ -4,7 +4,7 @@
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-h",
-        "secondaryColors": "colors-h",
+        "secondaryColors": "colors-b",
         "title": "STUGGIE",
         "isTitleVisible": true,
         "primaryLinks": [],
