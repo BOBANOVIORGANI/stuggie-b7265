@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Hello there!
-    subtitle: 'One platform, one community.'
+    subtitle: 'Hey, STUGGIE here, how can I help you today?'
     actions:
       - type: Button
         label: Get Started
