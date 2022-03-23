@@ -208,7 +208,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/stuggie-samsung.jpg
       altText: Hero image
     styles:
       self:
