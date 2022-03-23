@@ -94,8 +94,8 @@ sections:
     colors: colors-a
     title: Of maybe hoodie?
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      Need something to wear? Choose your preferred size, and colour, and we are
+      shipping directly to you. Get it now and have a fresh, new look.
     actions:
       - type: Button
         label: Get Started
