@@ -46,8 +46,9 @@ sections:
     colors: colors-a
     title: Are you looking for a shirt?
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      Looking for a shirt for summer? Great, get the t-shirt with premium
+      materials for the fair price. Choose your size, and colour, and we are
+      shipping to you.
     actions:
       - type: Button
         label: Get Started
