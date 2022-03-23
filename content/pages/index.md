@@ -288,7 +288,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Or digital art is thing for you?
+    title: Or digital art are things for you?
     text: >
       Digital arts are your preferences? Got you covered. Get some great STUGGIE
       digital arts in the shop for fair price. 1x1 png picture with high
