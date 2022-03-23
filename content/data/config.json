@@ -46,16 +46,6 @@
         "socialLinks": [],
         "legalLinks": [
             {
-                "label": "STORE",
-                "altText": "",
-                "url": "http://store-stuggie.tk/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "FAQ",
                 "altText": "",
                 "url": "/",
