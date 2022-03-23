@@ -198,9 +198,10 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      Have Samsung? Great, get some great cases for your Galaxy device. Colour
+      for everyone's taste. Premium materials, STUGGIE icon, and reasonable
+      price. 
     actions:
       - type: Button
         label: Sign Up
