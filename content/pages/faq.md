@@ -194,5 +194,7 @@ sections:
       text:
         textAlign: center
 metaTitle: FAQ
-metaDescription: 'STUGGIE again. '
+metaDescription: >-
+  STUGGIE again. Interested in anything. I will try my best to cover all of your
+  answers.
 ---
