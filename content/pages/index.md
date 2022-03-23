@@ -44,7 +44,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    title: 'A great feature, we’re proud of'
+    title: Are you looking for a shirt?
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
