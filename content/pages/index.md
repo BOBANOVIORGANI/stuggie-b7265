@@ -49,13 +49,7 @@ sections:
       Looking for a shirt for summer? Great, get the t-shirt with premium
       materials for the fair price. Choose your size, and colour, and we are
       shipping to you.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
+    actions: []
     media:
       type: ImageBlock
       url: /images/stuggie-shirt.jpg
