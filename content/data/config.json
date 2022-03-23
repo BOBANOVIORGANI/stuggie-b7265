@@ -7,14 +7,7 @@
         "secondaryColors": "colors-f",
         "title": "STUGGIE",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [
             {
                 "type": "Button",
