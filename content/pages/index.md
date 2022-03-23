@@ -50,11 +50,6 @@ sections:
       materials for the fair price. Choose your size, and colour, and we are
       shipping to you.
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - type: Link
         label: Learn More
         url: /
