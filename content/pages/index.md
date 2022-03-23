@@ -202,12 +202,6 @@ sections:
     backgroundSize: full
     title: Or even grip ring?
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
     text: >
       Don't have Samsung or iPhone but still want to have equipment for your
       smartphone? Got you. Get the metal grip ring in your preferred colour and
