@@ -12,6 +12,14 @@ sections:
         label: I WANNA VIEW THE SHOP
         url: 'http://store-stuggie.tk/'
         style: primary
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/stuggie-c867a300.png
