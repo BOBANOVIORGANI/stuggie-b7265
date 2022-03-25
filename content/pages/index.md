@@ -51,7 +51,6 @@ sections:
     media:
       type: ImageBlock
       url: /images/stuggie-shirt.jpg
-      altText: Hero section image
     styles:
       self:
         height: auto
