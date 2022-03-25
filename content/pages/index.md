@@ -15,7 +15,6 @@ sections:
     media:
       type: ImageBlock
       url: /images/stuggie-c867a300.png
-      caption: Image caption
     styles:
       self:
         height: auto
