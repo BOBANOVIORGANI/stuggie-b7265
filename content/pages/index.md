@@ -126,7 +126,6 @@ sections:
     media:
       type: ImageBlock
       url: /images/stuggie-iphone.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
