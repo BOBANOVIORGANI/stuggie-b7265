@@ -204,7 +204,6 @@ sections:
     media:
       type: ImageBlock
       url: /images/stuggie-grip.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
