@@ -12,7 +12,7 @@ sections:
         label: I WANNA VIEW THE SHOP
         url: 'http://store-stuggie.tk/'
         style: primary
-      - label: Can I spe
+      - label: Can I save some money
         altText: ''
         url: /
         showIcon: true
