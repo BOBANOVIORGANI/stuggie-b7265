@@ -87,7 +87,6 @@ sections:
     media:
       type: ImageBlock
       url: /images/stuggie-hoodie.jpg
-      altText: Hero section image
     styles:
       self:
         height: auto
