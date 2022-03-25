@@ -165,7 +165,6 @@ sections:
     media:
       type: ImageBlock
       url: /images/stuggie-samsung.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
